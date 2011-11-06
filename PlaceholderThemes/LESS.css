@@ -1,0 +1,55 @@
+/*
+	@theme LESS Placeholder
+	@placeholder less
+*/
+
+@base {
+	color: #ddd;
+	background-color: #fff;
+}
+
+less {
+	spell-check: disabled;
+}
+
+pseudo-class {
+  color: #814201;
+}
+
+variable.definition.style.less > property-name, property-name, mixin.argument.name {
+	color: #AB6526;
+}
+
+property-value, mixin.argument.default.value {
+	color: #43a202;
+}
+
+less > property-assigner, mixin.less > property-assigner {
+	color: #3a77bf;
+}
+
+less.at-rule string {
+	color: #474747;
+}
+
+string.quoted.double, string.quoted.single {
+  color: #2418c6;
+}
+
+keyword.important.less {
+	font-weight: bold;
+	color: #43a202;
+}
+
+mixin.less {
+	color: #7a3e9d;
+}
+
+mixin.less > punctuation {
+	color: #000;
+}
+
+comment.line.less, comment.block.less {
+  color: #a8a8a8;
+  background-color: #ececec;
+}

@@ -1,6 +1,6 @@
 #LESS sugar for Espresso
 
-This repository is no longer supported because I found the best [LESS.sugar by cellfusion](https://github.com/cellfusion/LESS.sugar).
+This repository is no longer supported because I found a better [LESS.sugar by cellfusion](https://github.com/cellfusion/LESS.sugar).
 
 Known LESS.sugar repos:
 
